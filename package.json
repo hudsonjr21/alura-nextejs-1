@@ -1,0 +1,19 @@
+{
+  "name": "alura-cases-divulgacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hudsonjr21/alura-nextejs-1.git",
+  "license": "MIT",
+  "dependencies": {
+    "link": "^1.5.1",
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
