@@ -5,6 +5,9 @@
   "repository": "https://github.com/hudsonjr21/alura-nextejs-1.git",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "link": "^1.5.1",
     "next": "^13.3.0",
     "react": "^18.2.0",
